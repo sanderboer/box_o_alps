@@ -24,3 +24,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+*.dxfbak
+#*
+*.dxvk-cache
+*.3dmbak

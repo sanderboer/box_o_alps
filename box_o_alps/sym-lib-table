@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "blackpill")(type "KiCad")(uri "${KIPRJMOD}/kicad_blackpill/blackpill_stlink.kicad_sym")(options "")(descr ""))
+)
