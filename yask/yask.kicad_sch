@@ -4069,7 +4069,7 @@
     (uuid 8df41c02-e5af-4c15-9219-c46c3e62fe30)
     (property "Reference" "JLEFT1" (id 0) (at 187.325 156.21 0))
     (property "Value" "AudioJack3" (id 1) (at 187.325 158.75 0))
-    (property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal" (id 2) (at 189.23 165.1 0)
+    (property "Footprint" "Connector_Audio:Jack_3.5mm_PJ311_Horizontal" (id 2) (at 189.23 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 189.23 165.1 0)
@@ -4188,7 +4188,7 @@
     (uuid bebce740-91d6-4578-8b38-391ab2394b51)
     (property "Reference" "JRIGHT1" (id 0) (at 252.095 154.94 0))
     (property "Value" "AudioJack3" (id 1) (at 252.095 157.48 0))
-    (property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal" (id 2) (at 254 163.83 0)
+    (property "Footprint" "Connector_Audio:Jack_3.5mm_PJ311_Horizontal" (id 2) (at 254 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 254 163.83 0)
@@ -4367,10 +4367,10 @@
 
   (symbol_instances
     (path "/8df41c02-e5af-4c15-9219-c46c3e62fe30"
-      (reference "JLEFT1") (unit 1) (value "AudioJack3") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal")
+      (reference "JLEFT1") (unit 1) (value "AudioJack3") (footprint "Connector_Audio:Jack_3.5mm_PJ311_Horizontal")
     )
     (path "/bebce740-91d6-4578-8b38-391ab2394b51"
-      (reference "JRIGHT1") (unit 1) (value "AudioJack3") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal")
+      (reference "JRIGHT1") (unit 1) (value "AudioJack3") (footprint "Connector_Audio:Jack_3.5mm_PJ311_Horizontal")
     )
     (path "/fde972f0-cc24-4991-af0e-3bcb32926a01"
       (reference "MLEFT1") (unit 1) (value "XIAO-RP2040") (footprint "xiao:Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM")
