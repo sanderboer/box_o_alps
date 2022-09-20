@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "alps_smd")(type "KiCad")(uri "${KIPRJMOD}/footprint/alps_smd.pretty")(options "")(descr ""))
+)
