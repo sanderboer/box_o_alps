@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "alps_smd")(type "KiCad")(uri "${KIPRJMOD}/footprint/alps_smd.pretty")(options "")(descr ""))
+  (lib (name "PJ-320A_Library")(type "KiCad")(uri "${KIPRJMOD}/pj320a/PJ-320A_Library.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/Panelization.pretty")(options "")(descr ""))
 )
